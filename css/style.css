@@ -1,0 +1,53 @@
+/* body {
+    background-color: linen;
+ }
+ h1 {
+    color: maroon;
+    margin-left: 40px;
+ } */
+
+body{
+   background-color: rgb(209, 245, 242);
+}
+
+ h1 {
+    font-family: arial;
+    font-size: 35px;
+    color: rgb(17, 7, 68);
+   }
+
+   h2 {
+      font-size: 30px;
+      margin-left: 150px;
+
+   }
+
+ .c0 {
+   font-family: arial;
+   font-size: 18px;
+   margin-left: 100px;
+
+
+}
+
+ .c1 {
+    font-family: arial;
+    font-size: 18px;
+    margin-left: 150px;
+    color: rgb(68, 27, 11);
+
+ }
+
+ .c2 {
+    color: rgb(159, 184, 16);
+ }
+
+ .cf{
+   font-family: arial;
+   font-size: 18px;
+   margin-left: 50px;
+ }
+
+ img {
+   border-radius: 20%;
+ }
